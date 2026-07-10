@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shahbaz1302/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shahbaz1302/LeetHub/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shahbaz1302/LeetHub/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/shahbaz1302/LeetHub/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/shahbaz1302/LeetHub/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
