@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shahbaz1302/LeetHub/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shahbaz1302/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shahbaz1302/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shahbaz1302/LeetHub/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shahbaz1302/LeetHub/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shahbaz1302/LeetHub/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/shahbaz1302/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shahbaz1302/LeetHub/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shahbaz1302/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shahbaz1302/LeetHub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shahbaz1302/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shahbaz1302/LeetHub/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shahbaz1302/LeetHub/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shahbaz1302/LeetHub/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shahbaz1302/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
