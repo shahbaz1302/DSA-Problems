@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shahbaz1302/LeetHub/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shahbaz1302/LeetHub/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shahbaz1302/LeetHub/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shahbaz1302/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shahbaz1302/LeetHub/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shahbaz1302/LeetHub/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
