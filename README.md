@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shahbaz1302/LeetHub/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/shahbaz1302/LeetHub/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/shahbaz1302/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shahbaz1302/LeetHub/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shahbaz1302/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shahbaz1302/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shahbaz1302/LeetHub/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/shahbaz1302/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shahbaz1302/LeetHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shahbaz1302/LeetHub/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shahbaz1302/LeetHub/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shahbaz1302/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
