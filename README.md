@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shahbaz1302/LeetHub/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shahbaz1302/LeetHub/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shahbaz1302/LeetHub/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shahbaz1302/LeetHub/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shahbaz1302/LeetHub/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shahbaz1302/LeetHub/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shahbaz1302/LeetHub/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shahbaz1302/LeetHub/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shahbaz1302/LeetHub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shahbaz1302/LeetHub/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/shahbaz1302/LeetHub/tree/master/0485-max-consecutive-ones) |
@@ -74,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shahbaz1302/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shahbaz1302/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shahbaz1302/LeetHub/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shahbaz1302/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shahbaz1302/LeetHub/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/shahbaz1302/LeetHub/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shahbaz1302/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shahbaz1302/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shahbaz1302/LeetHub/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shahbaz1302/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shahbaz1302/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -105,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shahbaz1302/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 ## Union-Find
 |  |
