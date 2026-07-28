@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shahbaz1302/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0680-valid-palindrome-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shahbaz1302/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shahbaz1302/LeetHub/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shahbaz1302/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shahbaz1302/LeetHub/tree/master/0410-split-array-largest-sum) |
+| [0680-valid-palindrome-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0680-valid-palindrome-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
