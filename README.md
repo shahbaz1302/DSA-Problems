@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shahbaz1302/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0647-palindromic-substrings](https://github.com/shahbaz1302/LeetHub/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shahbaz1302/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shahbaz1302/LeetHub/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shahbaz1302/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
+| [0647-palindromic-substrings](https://github.com/shahbaz1302/LeetHub/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shahbaz1302/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/shahbaz1302/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/shahbaz1302/LeetHub/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/shahbaz1302/LeetHub/tree/master/0647-palindromic-substrings) |
 ## Recursion
 |  |
 | ------- |
