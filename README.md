@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shahbaz1302/LeetHub/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shahbaz1302/LeetHub/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0680-valid-palindrome-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/shahbaz1302/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shahbaz1302/LeetHub/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shahbaz1302/LeetHub/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/shahbaz1302/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
