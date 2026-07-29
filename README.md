@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shahbaz1302/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/shahbaz1302/LeetHub/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shahbaz1302/LeetHub/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shahbaz1302/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shahbaz1302/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/shahbaz1302/LeetHub/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shahbaz1302/LeetHub/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/shahbaz1302/LeetHub/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/shahbaz1302/LeetHub/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -234,4 +237,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahbaz1302/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/shahbaz1302/LeetHub/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
