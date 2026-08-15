@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/shahbaz1302/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/shahbaz1302/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/shahbaz1302/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/shahbaz1302/LeetHub/tree/master/1472-design-browser-history) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/shahbaz1302/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [1472-design-browser-history](https://github.com/shahbaz1302/LeetHub/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shahbaz1302/LeetHub/tree/master/0037-sudoku-solver) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shahbaz1302/LeetHub/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
