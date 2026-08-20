@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shahbaz1302/LeetHub/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shahbaz1302/LeetHub/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/shahbaz1302/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shahbaz1302/LeetHub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shahbaz1302/LeetHub/tree/master/0283-move-zeroes) |
@@ -296,12 +297,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shahbaz1302/LeetHub/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/shahbaz1302/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahbaz1302/LeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahbaz1302/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/shahbaz1302/LeetHub/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/shahbaz1302/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shahbaz1302/LeetHub/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shahbaz1302/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shahbaz1302/LeetHub/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/shahbaz1302/LeetHub/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -416,4 +420,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shahbaz1302/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/shahbaz1302/LeetHub/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shahbaz1302/LeetHub/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
