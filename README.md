@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shahbaz1302/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/shahbaz1302/LeetHub/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/shahbaz1302/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shahbaz1302/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shahbaz1302/LeetHub/tree/master/0567-permutation-in-string) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shahbaz1302/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shahbaz1302/LeetHub/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shahbaz1302/LeetHub/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/shahbaz1302/LeetHub/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/shahbaz1302/LeetHub/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/shahbaz1302/LeetHub/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shahbaz1302/LeetHub/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -368,11 +370,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shahbaz1302/LeetHub/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shahbaz1302/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shahbaz1302/LeetHub/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/shahbaz1302/LeetHub/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/shahbaz1302/LeetHub/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/shahbaz1302/LeetHub/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/shahbaz1302/LeetHub/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/shahbaz1302/LeetHub/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
