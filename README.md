@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shahbaz1302/LeetHub/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/shahbaz1302/LeetHub/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/shahbaz1302/LeetHub/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shahbaz1302/LeetHub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shahbaz1302/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shahbaz1302/LeetHub/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahbaz1302/LeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shahbaz1302/LeetHub/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/shahbaz1302/LeetHub/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/shahbaz1302/LeetHub/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shahbaz1302/LeetHub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/shahbaz1302/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/shahbaz1302/LeetHub/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/shahbaz1302/LeetHub/tree/master/2104-sum-of-subarray-ranges) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/shahbaz1302/LeetHub/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/shahbaz1302/LeetHub/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shahbaz1302/LeetHub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/shahbaz1302/LeetHub/tree/master/2104-sum-of-subarray-ranges) |
 ## Range Minimum/Maximum Query
 |  |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shahbaz1302/LeetHub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shahbaz1302/LeetHub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -567,4 +572,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/shahbaz1302/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shahbaz1302/LeetHub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
