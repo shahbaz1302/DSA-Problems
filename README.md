@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shahbaz1302/LeetHub/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/shahbaz1302/LeetHub/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/shahbaz1302/LeetHub/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/shahbaz1302/LeetHub/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shahbaz1302/LeetHub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shahbaz1302/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shahbaz1302/LeetHub/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shahbaz1302/LeetHub/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/shahbaz1302/LeetHub/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/shahbaz1302/LeetHub/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/shahbaz1302/LeetHub/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/shahbaz1302/LeetHub/tree/master/2643-row-with-maximum-ones) |
 ## Prefix Sum
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shahbaz1302/LeetHub/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/shahbaz1302/LeetHub/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
