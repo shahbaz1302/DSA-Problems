@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/shahbaz1302/LeetHub/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shahbaz1302/LeetHub/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shahbaz1302/LeetHub/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/shahbaz1302/LeetHub/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shahbaz1302/LeetHub/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/shahbaz1302/LeetHub/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/shahbaz1302/LeetHub/tree/master/2104-sum-of-subarray-ranges) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shahbaz1302/LeetHub/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shahbaz1302/LeetHub/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shahbaz1302/LeetHub/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/shahbaz1302/LeetHub/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/shahbaz1302/LeetHub/tree/master/1901-find-a-peak-element-ii) |
 ## Union-Find
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shahbaz1302/LeetHub/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shahbaz1302/LeetHub/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/shahbaz1302/LeetHub/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/shahbaz1302/LeetHub/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shahbaz1302/LeetHub/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shahbaz1302/LeetHub/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shahbaz1302/LeetHub/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/shahbaz1302/LeetHub/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/shahbaz1302/LeetHub/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/shahbaz1302/LeetHub/tree/master/2643-row-with-maximum-ones) |
 ## Prefix Sum
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/shahbaz1302/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/shahbaz1302/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahbaz1302/LeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/shahbaz1302/LeetHub/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -546,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/shahbaz1302/LeetHub/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shahbaz1302/LeetHub/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/shahbaz1302/LeetHub/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -607,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shahbaz1302/LeetHub/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shahbaz1302/LeetHub/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shahbaz1302/LeetHub/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/shahbaz1302/LeetHub/tree/master/1631-path-with-minimum-effort) |
 ## DP on Trees
 |  |
 | ------- |
@@ -673,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shahbaz1302/LeetHub/tree/master/0127-word-ladder) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/shahbaz1302/LeetHub/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
