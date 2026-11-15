@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shahbaz1302/LeetHub/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shahbaz1302/LeetHub/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/shahbaz1302/LeetHub/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/shahbaz1302/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/shahbaz1302/LeetHub/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shahbaz1302/LeetHub/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shahbaz1302/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shahbaz1302/LeetHub/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/shahbaz1302/LeetHub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shahbaz1302/LeetHub/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/shahbaz1302/LeetHub/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/shahbaz1302/LeetHub/tree/master/0875-koko-eating-bananas) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shahbaz1302/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shahbaz1302/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0721-accounts-merge](https://github.com/shahbaz1302/LeetHub/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahbaz1302/LeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shahbaz1302/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shahbaz1302/LeetHub/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shahbaz1302/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/shahbaz1302/LeetHub/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shahbaz1302/LeetHub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shahbaz1302/LeetHub/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shahbaz1302/LeetHub/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/shahbaz1302/LeetHub/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/shahbaz1302/LeetHub/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/shahbaz1302/LeetHub/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shahbaz1302/LeetHub/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -549,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shahbaz1302/LeetHub/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shahbaz1302/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/shahbaz1302/LeetHub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shahbaz1302/LeetHub/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/shahbaz1302/LeetHub/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shahbaz1302/LeetHub/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -612,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shahbaz1302/LeetHub/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shahbaz1302/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/shahbaz1302/LeetHub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shahbaz1302/LeetHub/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/shahbaz1302/LeetHub/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shahbaz1302/LeetHub/tree/master/0787-cheapest-flights-within-k-stops) |
