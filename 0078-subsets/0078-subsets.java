@@ -1,18 +1,18 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> result=new ArrayList<>();
-        printSequences(0,new ArrayList<>(),result,nums);
+        powerSet(0,nums,result,new ArrayList());
         return result;
     }
 
-    public void printSequences(int index,List<Integer> list,List<List<Integer>> result,int[] arr){
+    public void powerSet(int index,int[] arr,List<List<Integer>> result, List<Integer> temp){
         if(index==arr.length){
-            result.add(new ArrayList<>(list));
+            result.add(new ArrayList(temp));
             return;
         }
-        list.add(arr[index]);
-        printSequences(index+1,list,result,arr);
-        list.remove(list.size()-1);
-        printSequences(index+1,list,result,arr);
+        temp.add(arr[index]);
+        powerSet(index+1,arr,result,temp);
+        temp.remove(temp.size()-1);
+        powerSet(index+1,arr,result,temp);
     }
 }
