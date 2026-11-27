@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shahbaz1302/LeetHub/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shahbaz1302/LeetHub/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/shahbaz1302/LeetHub/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shahbaz1302/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/shahbaz1302/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahbaz1302/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shahbaz1302/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shahbaz1302/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/shahbaz1302/LeetHub/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/shahbaz1302/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/shahbaz1302/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/shahbaz1302/LeetHub/tree/master/0509-fibonacci-number) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shahbaz1302/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/shahbaz1302/LeetHub/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/shahbaz1302/LeetHub/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
