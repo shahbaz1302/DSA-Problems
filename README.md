@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shahbaz1302/LeetHub/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shahbaz1302/LeetHub/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shahbaz1302/LeetHub/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/shahbaz1302/LeetHub/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/shahbaz1302/LeetHub/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shahbaz1302/LeetHub/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shahbaz1302/LeetHub/tree/master/0509-fibonacci-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shahbaz1302/LeetHub/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shahbaz1302/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shahbaz1302/LeetHub/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/shahbaz1302/LeetHub/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/shahbaz1302/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shahbaz1302/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/shahbaz1302/LeetHub/tree/master/0509-fibonacci-number) |
